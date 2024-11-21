@@ -1,5 +1,4 @@
 Dash
 pandas
 plotly.express
-plotly.graph_objects
 gunicorn
